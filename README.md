@@ -1,4 +1,4 @@
-# João Gabriel Souza | Desenvolvedor Full Stack
+# João Guilherme Souza | Desenvolvedor Full Stack
 
 <div align="center">
 
