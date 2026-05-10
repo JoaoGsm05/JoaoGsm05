@@ -1,4 +1,4 @@
-# Joao Gabriel Souza | Desenvolvedor Full Stack
+# Joao Guilherme Souza | Desenvolvedor Full Stack
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 ## Ola! Bem-vindo ao meu perfil
 
-Sou **Joao Gabriel**, estudante de TI apaixonado por desenvolvimento de software e automacao. Estou construindo solucoes reais desde o inicio, combinando conhecimento tecnico com criatividade para resolver problemas complexos.
+Sou **Joao Guilherme**, estudante de TI apaixonado por desenvolvimento de software e automacao. Estou construindo solucoes reais desde o inicio, combinando conhecimento tecnico com criatividade para resolver problemas complexos.
 
 ## Expertise
 
@@ -49,7 +49,7 @@ Estou constantemente aprendendo e explorando novas tecnologias:
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaogsm05-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/joaogsm05)
-[![Email](https://img.shields.io/badge/Email-jgsm05@gmail.com-red?style=flat-square&logo=gmail)](mailto:jgsm05@gmail.com)
+[![Email](https://img.shields.io/badge/Email-joaog.mendonca.eng@gmail.com-red?style=flat-square&logo=gmail)](mailto:joaog.mendonca.eng@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoGsm05-black?style=flat-square&logo=github)](https://github.com/JoaoGsm05)
 
 ---
